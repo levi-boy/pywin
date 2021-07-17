@@ -1,0 +1,2 @@
+pywin32==301
+PyGetWindow==0.0.9
